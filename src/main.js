@@ -3,7 +3,7 @@ import './cube-ui'
 import './cube-ui'
 import App from './App.vue'
 
-// 测试
+// 测试2
 Vue.config.productionTip = false
 
 new Vue({
